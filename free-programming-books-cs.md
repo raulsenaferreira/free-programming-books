@@ -1,6 +1,7 @@
 ### Index
 * [Bash](#bash)
 * [Git](#git)
+* [HTML](#html)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
     * [Algoritmy a datové struktury](#algoritmy-a-datove-struktury)
@@ -17,6 +18,7 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [TeX](#tex)
+* [Webdesign](#webdesign)
 * [XML](#xml)
 
 
@@ -30,6 +32,10 @@
 
 ### Git
 * [Pro Git](https://knihy.nic.cz/) - Scott Chacon (PDF)
+
+
+### HTML
+* [Ponořme se do HTML5](https://knihy.nic.cz/) - Mark Pilgrim (PDF)
 
 
 ### Language Agnostic
@@ -46,6 +52,7 @@
 * [Diskrétní matematika](http://math.feld.cvut.cz/habala/teaching/dma.htm) - Petr Habala (PDFs)
 * [Lineární algebra](ftp://math.feld.cvut.cz/pub/olsak/linal/linal.pdf) - Petr Olšák (PDF)
 * [Matematika SŠ](http://www.realisticky.cz/ucebnice.php?id=3) - Martin Krynický (PDFs)
+* [Think Stats: Pravděpodobnost a statistika pro programátory](http://eknihy.knihovna.cz/kniha/think-stats-pravdepodobnost-a-statistika-pro-programatory) - Allen B. Downey (PDF)
 
 
 #### Právo
@@ -96,6 +103,10 @@
 ### TeX
 * [TeXbook naruby](http://www.root.cz/knihy/texbook-naruby/) (PDF)
 * [První setkání s TeXem](http://www.root.cz/knihy/prvni-setkani-s-texem/) (PDF)
+
+
+### Webdesign
+* [Webová režie: základy koncepčního myšlení u webových projektů](http://www.root.cz/knihy/webova-rezie-zaklady-koncepcniho-mysleni-u-webovych-projektu/) (PDF)
 
 
 ### XML
